@@ -334,6 +334,8 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 	- Points
 		- Euclidean Distance
 		- Manhattan Distance
+		- Centroid
+		- Fermat Point / Geometric Median [UVA 10228]
 	- Lines
 		- Equation of Line
 		- Distance from Point to Line
