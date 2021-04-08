@@ -63,6 +63,12 @@ These are the things I know and/or have heard about.
 	- [Week 5: December 7 - 13. Integer arrays. Part 2](https://www.e-olymp.com/en/contests/18687)
 	- [Week 6: December 14 - 20. Char arrays 1](https://www.e-olymp.com/en/contests/18847)
 	- [Week 7: December 21 - 27. Char arrays 2](https://www.e-olymp.com/en/contests/18848)
+	- [Week 8: December 28 - January 10. Functions. Part 1](https://www.e-olymp.com/en/contests/19072)
+	- [Week 8: December 28 - January 10. Functions. Part 2](https://www.e-olymp.com/en/contests/19073)
+	- [Week 9: January 11 - 17. Pointers. References](https://www.e-olymp.com/en/contests/19199)
+	- [Week 10: January 18 - 24](https://www.e-olymp.com/en/contests/19288)
+	- [Week 11: February 1 - 7. Linked Lists](https://www.e-olymp.com/en/contests/19461)
+	- [Week 12: February 8 - 14](https://www.e-olymp.com/en/contests/19587)
 
 ### References
 - [C++ Documentation](http://www.cplusplus.com/)
