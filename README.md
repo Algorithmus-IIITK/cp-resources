@@ -233,6 +233,7 @@ Please use the above Links for reading about the topics mentioned below. The boo
 	- Segment Tree
 	- Fenwick Tree (BIT)
 	- Trie
+	- Treap
 
 #### Related Contests
 - [Tree-Graph Part 1](https://codeforces.com/contestInvitation/03cd6c537e79e4d060d3198949e66eef22c01edd)
@@ -425,3 +426,5 @@ Eveything upto Class XII Maths and more. Discrete Mathematics forms an important
 - Powers of Number in n!	
 - Largest Area in a room from where we can see all walls
 - Calculations involving multiplication/division (like Factorial) can be written in Prime exponent form
+- Building Prefix array instead of actual array in case of XOR problems
+- 
